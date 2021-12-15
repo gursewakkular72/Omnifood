@@ -608,7 +608,7 @@ span {
       hsla(28, 94%, 50%, 0.412),
       hsla(28, 79%, 59%, 0.453)
     ),
-    url("content/img/eating.jpg");
+    url("../content/img/eating.jpg");
   background-size: cover;
   background-position: center;
   width: 100%;
